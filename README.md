@@ -1,6 +1,7 @@
-A New Banner Advert
+#  JLFocusScrollView
 
-无限滚动轮播图
+
+A New Banner Advert 无限滚动轮播图
 
 1. 淡入淡出
 
